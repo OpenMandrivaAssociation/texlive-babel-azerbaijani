@@ -1,6 +1,6 @@
 Name:		texlive-babel-azerbaijani
 Version:	44197
-Release:	1
+Release:	2
 Summary:	Support for Azerbaijani within babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-azerbaijani
