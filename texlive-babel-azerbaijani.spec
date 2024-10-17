@@ -3,7 +3,7 @@ Version:	44197
 Release:	2
 Summary:	Support for Azerbaijani within babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-azerbaijani
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-azerbaijani
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-azerbaijani.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-azerbaijani.doc.r%{version}.tar.xz
